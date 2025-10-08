@@ -5,3 +5,4 @@ modified version of some grub themes that makes them easier to install on nixOS(
 ## Credits:
 
 [Wuwa Themes](https://github.com/vinceliuice/Wuthering-grub2-themes)
+[cirlce whatever theme](https://github.com/yeyushengfan258/Matrix-circle-grub-theme#)
